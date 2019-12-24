@@ -40,3 +40,6 @@ Digite- painel
 /grupo -Mudar nome do grupo
 /unban -Remove banimento
 /promote -Promove a admin
+
+Source original usada de base:https://github.com/laps3l/CokeBot
+Agradecimentos a Lapse
