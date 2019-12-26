@@ -53,7 +53,7 @@ from classbot import manicomio
 
 os.system('clear')
 
-token = '893192395:AAGUm_2rdfwz9Uxc_O7H8WneEzup3XSfNYU'
+token = 'token do seu bot vai aqui'
 bot = telepot.Bot(token)
 
 def handle(msg):
