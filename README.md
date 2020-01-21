@@ -1,5 +1,6 @@
 # Manicomio-Bot
 Manicomio Bot, desenvolvido em python com apoio do telepot.
+Versão:1.0 -  descontinuado, ver: https://github.com/gorpo/Manicomio-Telegram-Python-Bot
 [![Stage](https://img.shields.io/badge/Release-Stable-brightgreen.svg)]()
 [![Build](https://img.shields.io/badge/Supported_OS-Linux-orange.svg)]()
 
